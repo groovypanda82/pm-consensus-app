@@ -57,7 +57,9 @@ export default function Home() {
   const [activeTab, setActiveTab] = useState("consensus");
   const [activeTag, setActiveTag] = useState<string | null>(null);
   const [votes, setVotes] = useState<Record<string, "A" | "B">>({});
-  const [theme, setTheme] = useState<"dark" | "light">("dark");
+  const [theme, setTheme] = useState<"dark" | "light">(() =>
+    typeof window !== "undefined" && !window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "dark"
+  );
   const n349 = useCountUp(349);
   const n289 = useCountUp(289);
   const n638 = useCountUp(638);
@@ -65,7 +67,8 @@ export default function Home() {
   useEffect(() => {
     fetch("/cards.json").then((r) => r.json()).then(setData);
     const saved = localStorage.getItem("theme") as "dark" | "light" | null;
-    const initial = saved ?? "dark";
+    const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const initial = saved ?? (systemDark ? "dark" : "light");
     setTheme(initial);
     const root = document.documentElement;
     Object.entries(THEME_VARS[initial]).forEach(([k, v]) => root.style.setProperty(k, v));
