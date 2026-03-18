@@ -1,8 +1,4 @@
-"use client";
-
-import { useState, useEffect } from "react";
 import type { Quote } from "@/lib/types";
-import { getSourceLinks } from "@/lib/sourceLinks";
 
 interface Props {
   quote: Quote;
@@ -10,14 +6,6 @@ interface Props {
 }
 
 export default function QuoteBlock({ quote, accentColor = "#4ade80" }: Props) {
-  const [url, setUrl] = useState<string>("#");
-
-  useEffect(() => {
-    getSourceLinks().then((links) => {
-      setUrl(links[quote.source] ?? "#");
-    });
-  }, [quote.source]);
-
   return (
     <div style={{
       background: "var(--quote-bg)",
@@ -56,18 +44,27 @@ export default function QuoteBlock({ quote, accentColor = "#4ade80" }: Props) {
           )}
         </div>
         <div style={{ marginLeft: "auto", flexShrink: 0 }}>
-          <a
-            href={url}
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{
+          {quote.sourceUrl ? (
+            <a
+              href={quote.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                fontSize: 10, color: "var(--text-muted)", background: "var(--surface2)",
+                border: "1px solid var(--badge-border)", borderRadius: 4, padding: "2px 7px",
+                textDecoration: "none", display: "inline-block",
+              }}
+            >
+              {quote.type === "podcast" ? "🎙" : "📄"} {new Date(quote.date).getFullYear()} ↗
+            </a>
+          ) : (
+            <span style={{
               fontSize: 10, color: "var(--text-muted)", background: "var(--surface2)",
               border: "1px solid var(--badge-border)", borderRadius: 4, padding: "2px 7px",
-              textDecoration: "none", display: "inline-block",
-            }}
-          >
-            {quote.type === "podcast" ? "🎙" : "📄"} {new Date(quote.date).getFullYear()} ↗
-          </a>
+            }}>
+              {quote.type === "podcast" ? "🎙" : "📄"} {new Date(quote.date).getFullYear()}
+            </span>
+          )}
         </div>
       </div>
     </div>

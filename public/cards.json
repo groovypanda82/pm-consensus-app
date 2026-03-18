@@ -3,7 +3,6 @@
   "totalSources": 638,
   "description": "Cards synthesized from 349 newsletters and 289 podcast transcripts (2019–2026) by Lenny Rachitsky",
   "cards": [
-
     {
       "kind": "consensus",
       "id": "c-talk-to-users",
@@ -19,7 +18,8 @@
           "company": "Linear",
           "source": "newsletters/how-linear-builds-product.md",
           "date": "2023-09-26",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.youtube.com/watch?v=4muxFVZ4XfM"
         },
         {
           "text": "A lot of the innovative ideas are coming basically from conversation with customers because they're sharing with you the pain they have that they didn't even know could be resolved.",
@@ -28,7 +28,8 @@
           "company": "GitHub",
           "source": "podcasts/inbal-s.md",
           "date": "2023-12-01",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/inbal-s"
         },
         {
           "text": "Most of the time we don't have time to stop what we're doing and go do some research. But continuous discovery is about integrating that habit into your existing workflow — not treating it as a separate phase.",
@@ -37,15 +38,19 @@
           "company": "Product Talk",
           "source": "podcasts/teresa-torres.md",
           "date": "2022-06-30",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/teresa-torres"
         }
       ],
-      "tags": ["product-management", "user-research", "discovery"],
+      "tags": [
+        "product-management",
+        "user-research",
+        "discovery"
+      ],
       "firstSeen": "2019-06-14",
       "lastSeen": "2026-03-01",
       "evergreen": true
     },
-
     {
       "kind": "consensus",
       "id": "c-saying-no",
@@ -61,7 +66,8 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/saying-no.md",
           "date": "2021-09-28",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/saying-no"
         },
         {
           "text": "You have to be extremely selective of where you expend your calories. And that caloric expenditure — if you expend your calories in too many places, you end up achieving nothing.",
@@ -70,7 +76,8 @@
           "company": "Cisco",
           "source": "podcasts/jeetu-patel.md",
           "date": "2026-02-26",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/jeetu-patel"
         },
         {
           "text": "Saying no is one of the most important things I can do as an entrepreneur. And not saying no to a meeting — that can be easy. This is saying no to doing all of the exciting projects that I want to do.",
@@ -79,7 +86,8 @@
           "company": "Ultraspeaking",
           "source": "podcasts/tristan-de-montebello.md",
           "date": "2024-10-13",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=BQM3Yq93nVc"
         },
         {
           "text": "This forces ruthless prioritization. You have a team that's going out and doing something. They will never ask to work on something that's not important.",
@@ -88,15 +96,20 @@
           "company": "Windsurf (Codeium)",
           "source": "podcasts/varun-mohan.md",
           "date": "2025-04-20",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=5Z0RCxDZdrE"
         }
       ],
-      "tags": ["product-management", "prioritization", "focus", "leadership"],
+      "tags": [
+        "product-management",
+        "prioritization",
+        "focus",
+        "leadership"
+      ],
       "firstSeen": "2019-06-14",
       "lastSeen": "2026-03-01",
       "evergreen": true
     },
-
     {
       "kind": "consensus",
       "id": "c-writing-thinking",
@@ -112,7 +125,8 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
           "date": "2021-05-04",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/14-habits-of-highly-effective-product-managers"
         },
         {
           "text": "If you can't write it clearly, you haven't thought it through clearly. Writing is thinking. The best PMs I've worked with produce documentation that is almost embarrassingly clear.",
@@ -121,15 +135,20 @@
           "company": "Maven",
           "source": "podcasts/wes-kao.md",
           "date": "2025-04-06",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=BIvVGhy_VxU"
         }
       ],
-      "tags": ["product-management", "communication", "writing", "career"],
+      "tags": [
+        "product-management",
+        "communication",
+        "writing",
+        "career"
+      ],
       "firstSeen": "2019-06-14",
       "lastSeen": "2025-04-06",
       "evergreen": true
     },
-
     {
       "kind": "consensus",
       "id": "c-velocity-quality",
@@ -145,7 +164,8 @@
           "company": "GitHub",
           "source": "podcasts/nicole-forsgren.md",
           "date": "2025-10-19",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=SWcDfPVTizQ"
         },
         {
           "text": "Velocity is also a great way to have positive selection in terms of talent — talent wants to join companies that ship fast.",
@@ -154,7 +174,8 @@
           "company": "Ramp",
           "source": "podcasts/geoff-charles.md",
           "date": "2023-08-06",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=aNJDZ_RzTVk"
         },
         {
           "text": "Ship fast, ship early, ship often. In that idea is the idea of failure. It's not going to go right, and it's going to go wrong more often than not. But if you ship...",
@@ -163,15 +184,20 @@
           "company": "Intercom",
           "source": "podcasts/paul-adams.md",
           "date": "2023-10-26",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=R-Geamq9xc0"
         }
       ],
-      "tags": ["engineering", "product-management", "strategy", "growth"],
+      "tags": [
+        "engineering",
+        "product-management",
+        "strategy",
+        "growth"
+      ],
       "firstSeen": "2022-01-01",
       "lastSeen": "2026-01-01",
       "evergreen": false
     },
-
     {
       "kind": "debate",
       "id": "d-founder-mode",
@@ -189,7 +215,8 @@
             "company": "Airtable",
             "source": "podcasts/howie-liu.md",
             "date": "2025-08-31",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=GT0jtVjRy2E"
           },
           {
             "text": "If you're trying to make the shift and it's just not moving, you may need to go hardcore founder mode.",
@@ -198,7 +225,8 @@
             "company": "Lenny's Podcast",
             "source": "podcasts/eoghan-mccabe.md",
             "date": "2025-08-21",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/eoghan-mccabe"
           },
           {
             "text": "Some of the most innovative leaders in tech are famous micromanagers. Steve Jobs is a micromanager. Elon Musk is a micromanager. Mark Zuckerberg's a micromanager. The details matter.",
@@ -207,7 +235,8 @@
             "company": "Tinder / Reforge",
             "source": "podcasts/ravi-mehta.md",
             "date": "2025-09-29",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=_yQMGHHl49g"
           }
         ]
       },
@@ -222,7 +251,8 @@
             "company": "Enjoy The Work",
             "source": "podcasts/jonathan-lowenhar.md",
             "date": "2024-12-05",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=s0jn7eE33nk"
           },
           {
             "text": "It's great to be in founder mode. It's not as great to be working for someone in founder mode. Often a very challenging place to be.",
@@ -231,7 +261,8 @@
             "company": "Lenny's Podcast",
             "source": "podcasts/chip-conley.md",
             "date": "2025-08-03",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/chip-conley"
           },
           {
             "text": "Founder mode done poorly is simply a recipe for undermining, disempowering, and creating chaos.",
@@ -240,14 +271,19 @@
             "company": "Harvard Business School",
             "source": "newsletters/five-principles-for-successfully-managing-managers.md",
             "date": "2025-05-20",
-            "type": "newsletter"
+            "type": "newsletter",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/five-principles-for-successfully-managing-managers"
           }
         ]
       },
-      "tags": ["leadership", "startups", "organization", "strategy"],
+      "tags": [
+        "leadership",
+        "startups",
+        "organization",
+        "strategy"
+      ],
       "verdict": "Lenny's take: 'It's great to be in founder mode. It's not as great to work for someone in it.'"
     },
-
     {
       "kind": "debate",
       "id": "d-data-vs-gut",
@@ -265,7 +301,8 @@
             "company": "Airbnb / Microsoft / Amazon",
             "source": "podcasts/ronny-kohavi.md",
             "date": "2023-07-27",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=hEzpiDuYFoE"
           },
           {
             "text": "People tend to just go with gut instinct and then give themselves high confidence. I found this a bit disturbing because the data says your instincts are wrong far more often than you think.",
@@ -274,7 +311,8 @@
             "company": "ex-Gmail / YouTube",
             "source": "podcasts/itamar-gilad.md",
             "date": "2023-09-21",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=aJWSn-tz3jQ"
           }
         ]
       },
@@ -289,7 +327,8 @@
             "company": "Stripe",
             "source": "podcasts/claire-hughes-johnson.md",
             "date": "2023-03-05",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=Mv0o9o4MRh0"
           },
           {
             "text": "I'm data informed, and I'm not data driven. There have been times where I just flip a coin — and those have often been some of the best decisions I've made.",
@@ -298,7 +337,8 @@
             "company": "GitHub",
             "source": "podcasts/nicole-forsgren.md",
             "date": "2025-10-19",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=SWcDfPVTizQ"
           },
           {
             "text": "A lot of people discount as a PM, 'I should have no opinions — I'm just going to listen to data.' But something I've learned more and more is: you should really trust your gut and your instincts.",
@@ -307,14 +347,19 @@
             "company": "YouTube / Netflix / Uber",
             "source": "podcasts/ebi-atawodi.md",
             "date": "2023-12-03",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=tBPTwUmaxDs"
           }
         ]
       },
-      "tags": ["analytics", "product-management", "strategy", "decision-making"],
+      "tags": [
+        "analytics",
+        "product-management",
+        "strategy",
+        "decision-making"
+      ],
       "verdict": "The nuance most agree on: 'data-informed' not 'data-driven' — use data to reduce uncertainty, not replace judgment."
     },
-
     {
       "kind": "debate",
       "id": "d-speed-vs-quality",
@@ -332,7 +377,8 @@
             "company": "Ramp",
             "source": "podcasts/geoff-charles.md",
             "date": "2023-08-06",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=aNJDZ_RzTVk"
           },
           {
             "text": "Ship fast so people can start playing with it. In the afternoon, we're already running a full-scale experiment. You start actually hearing other people describe the problem — that's the signal.",
@@ -341,7 +387,8 @@
             "company": "Gamma",
             "source": "podcasts/grant-lee.md",
             "date": "2025-11-13",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=3H0ngGU5pbM"
           }
         ]
       },
@@ -356,7 +403,8 @@
             "company": "Swiggy / Jupiter Money / Flipkart",
             "source": "podcasts/anuj-rathi.md",
             "date": "2023-12-07",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=1sClhfuCxP0"
           },
           {
             "text": "There's a real tension — people have high standards, which we encourage. And we encourage them to ship fast and make mistakes. It's a constant tension that we're navigating.",
@@ -365,14 +413,19 @@
             "company": "Intercom",
             "source": "podcasts/paul-adams.md",
             "date": "2023-10-26",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=R-Geamq9xc0"
           }
         ]
       },
-      "tags": ["strategy", "engineering", "product-management", "growth"],
+      "tags": [
+        "strategy",
+        "engineering",
+        "product-management",
+        "growth"
+      ],
       "verdict": "Context matters: early stage favors speed; at scale, quality compounds. Most guests agree speed wins at 0→1."
     },
-
     {
       "kind": "debate",
       "id": "d-technical-pm",
@@ -390,7 +443,8 @@
             "company": "Perplexity",
             "source": "newsletters/how-perplexity-builds-product.md",
             "date": "2024-04-30",
-            "type": "newsletter"
+            "type": "newsletter",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/how-perplexity-builds-product"
           },
           {
             "text": "If you want to reach the pinnacle of being a technical PM, you need to learn to code and build something yourself. It's a serious endeavor, but it changes everything about how you work with engineers.",
@@ -399,7 +453,8 @@
             "company": "Lenny's Newsletter",
             "source": "newsletters/getting-more-technical.md",
             "date": "2021-09-21",
-            "type": "newsletter"
+            "type": "newsletter",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/getting-more-technical"
           }
         ]
       },
@@ -414,7 +469,8 @@
             "company": "The Knot / Trello",
             "source": "podcasts/nikita-miller.md",
             "date": "2023-04-06",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=4PhfAbRQpbI"
           },
           {
             "text": "Some companies hire only super-technical PMs, while others prefer generalists, or even design-focused ones. The more you understand, the better you'll do — but every company is different.",
@@ -423,7 +479,8 @@
             "company": "Lenny's Newsletter",
             "source": "newsletters/the-top-5-things-pms-should-know-about-engineering.md",
             "date": "2021-12-16",
-            "type": "newsletter"
+            "type": "newsletter",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/the-top-5-things-pms-should-know-about-engineering"
           },
           {
             "text": "PMs have to know basics of how the tools work and what would work in the tool. But 'technical PM' and 'knows engineering basics' are very different things — I wouldn't even think of myself as a technical PM.",
@@ -432,14 +489,18 @@
             "company": "Slack",
             "source": "podcasts/merci-grace.md",
             "date": "2022-07-11",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.lennysnewsletter.com/p/merci-grace"
           }
         ]
       },
-      "tags": ["product-management", "engineering", "career"],
+      "tags": [
+        "product-management",
+        "engineering",
+        "career"
+      ],
       "verdict": "Consensus forming since 2024: with AI coding tools, the gap is closing fast — non-technical PMs can now prototype. The bar is rising."
     },
-
     {
       "kind": "debate",
       "id": "d-okrs",
@@ -457,7 +518,8 @@
             "company": "Stanford",
             "source": "podcasts/christina-wodtke.md",
             "date": "2023-03-16",
-            "type": "podcast"
+            "type": "podcast",
+            "sourceUrl": "https://www.youtube.com/watch?v=kvkL18Ue0dE"
           }
         ]
       },
@@ -472,14 +534,19 @@
             "company": "Linear",
             "source": "newsletters/how-linear-builds-product.md",
             "date": "2023-09-26",
-            "type": "newsletter"
+            "type": "newsletter",
+            "sourceUrl": "https://www.youtube.com/watch?v=4muxFVZ4XfM"
           }
         ]
       },
-      "tags": ["strategy", "product-management", "leadership", "organization"],
+      "tags": [
+        "strategy",
+        "product-management",
+        "leadership",
+        "organization"
+      ],
       "verdict": "Strong opinions on both sides. The pattern: scrappy early-stage teams reject OKRs; mid-to-large orgs find them essential for alignment."
     },
-
     {
       "kind": "reversal",
       "id": "r-ai-threat-to-superpower",
@@ -497,7 +564,8 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/how-close-is-ai-to-replacing-product-managers.md",
           "date": "2024-07-09",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product-managers"
         }
       ],
       "newQuotes": [
@@ -508,7 +576,8 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/make-product-management-fun-again-with-ai-agents.md",
           "date": "2025-04-29",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/make-product-management-fun-again-with-ai-agents"
         },
         {
           "text": "I am a technical PM in the making. I have mid-level engineering knowledge. I understand architecture — and I want you to explain what we're currently working on using the same mental models.",
@@ -517,13 +586,18 @@
           "company": "Meta",
           "source": "podcasts/zevi-arnovitz.md",
           "date": "2026-01-18",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=1em64iUFt3U"
         }
       ],
       "reason": "The frame shifted completely: 2023-2024 was about whether AI would replace PMs. By 2025-2026, the conversation was about PMs becoming 10x more effective using AI tools to prototype, research, and ship.",
-      "tags": ["ai", "product-management", "career", "strategy"]
+      "tags": [
+        "ai",
+        "product-management",
+        "career",
+        "strategy"
+      ]
     },
-
     {
       "kind": "reversal",
       "id": "r-founder-mode-emergence",
@@ -541,7 +615,8 @@
           "company": "Drift / HubSpot",
           "source": "newsletters/five-principles-for-successfully-managing-managers.md",
           "date": "2025-05-20",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.youtube.com/watch?v=4LjddcccYIo"
         }
       ],
       "newQuotes": [
@@ -552,7 +627,8 @@
           "company": "Enjoy The Work",
           "source": "podcasts/jonathan-lowenhar.md",
           "date": "2024-12-05",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=s0jn7eE33nk"
         },
         {
           "text": "Founder mode in a founder-run company has an easier time existing because people dislike the people who are pumping heat into a thing — people fight them. But that heat is exactly what makes it work.",
@@ -561,13 +637,18 @@
           "company": "Shopify",
           "source": "podcasts/tobi-lutke.md",
           "date": "2025-02-02",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/tobi-lutke"
         }
       ],
       "reason": "Brian Chesky's 2023 YC talk on founder mode reframed the entire conversation about leadership. What was once called 'micromanagement' was rebranded as competitive advantage. The debate erupted across the entire 2024-2025 archive.",
-      "tags": ["leadership", "startups", "organization", "strategy"]
+      "tags": [
+        "leadership",
+        "startups",
+        "organization",
+        "strategy"
+      ]
     },
-
     {
       "kind": "reversal",
       "id": "r-growth-hacking-to-word-of-mouth",
@@ -585,7 +666,8 @@
           "company": "OpenAI / Stripe",
           "source": "podcasts/krithika-shankarraman.md",
           "date": "2025-05-25",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=QaDsk4iH1aw"
         }
       ],
       "newQuotes": [
@@ -596,13 +678,18 @@
           "company": "Wise",
           "source": "podcasts/nilan-peiris.md",
           "date": "2023-09-24",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=xZifSLGOrrw"
         }
       ],
       "reason": "As paid acquisition costs exploded and iOS privacy changes crushed tracking, the entire growth playbook was rewritten. By 2023, every major operator had converged on the same conclusion: make a better product, not a better funnel.",
-      "tags": ["growth", "strategy", "go-to-market", "b2c"]
+      "tags": [
+        "growth",
+        "strategy",
+        "go-to-market",
+        "b2c"
+      ]
     },
-
     {
       "kind": "reversal",
       "id": "r-prd-to-prototype",
@@ -620,7 +707,8 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
           "date": "2021-05-04",
-          "type": "newsletter"
+          "type": "newsletter",
+          "sourceUrl": "https://www.lennysnewsletter.com/p/14-habits-of-highly-effective-product-managers"
         }
       ],
       "newQuotes": [
@@ -631,7 +719,8 @@
           "company": "Meta",
           "source": "podcasts/zevi-arnovitz.md",
           "date": "2026-01-18",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=1em64iUFt3U"
         },
         {
           "text": "If I could put all the research into ChatGPT and it could spit out a PRD, then you wouldn't need a PM. The PM's job is the judgment and the taste — the thing AI can't do.",
@@ -640,12 +729,17 @@
           "company": "YouTube / Netflix / Uber",
           "source": "podcasts/ebi-atawodi.md",
           "date": "2023-12-03",
-          "type": "podcast"
+          "type": "podcast",
+          "sourceUrl": "https://www.youtube.com/watch?v=tBPTwUmaxDs"
         }
       ],
       "reason": "AI coding tools like Cursor, Bolt, and Windsurf made it possible for non-technical PMs to prototype in hours. By 2025-2026, the advice shifted entirely: the best PMs show, don't tell.",
-      "tags": ["product-management", "ai", "engineering", "strategy"]
+      "tags": [
+        "product-management",
+        "ai",
+        "engineering",
+        "strategy"
+      ]
     }
-
   ]
 }

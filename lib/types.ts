@@ -4,6 +4,7 @@ export interface Quote {
   guestTitle?: string;
   company?: string;
   source: string;
+  sourceUrl?: string;
   date: string;
   type: "podcast" | "newsletter";
 }
