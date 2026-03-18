@@ -28,8 +28,7 @@
           "company": "GitHub",
           "source": "podcasts/inbal-s.md",
           "date": "2023-12-01",
-          "type": "podcast",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/inbal-s"
+          "type": "podcast"
         },
         {
           "text": "Most of the time we don't have time to stop what we're doing and go do some research. But continuous discovery is about integrating that habit into your existing workflow — not treating it as a separate phase.",
@@ -38,8 +37,7 @@
           "company": "Product Talk",
           "source": "podcasts/teresa-torres.md",
           "date": "2022-06-30",
-          "type": "podcast",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/teresa-torres"
+          "type": "podcast"
         }
       ],
       "tags": [
@@ -66,8 +64,7 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/saying-no.md",
           "date": "2021-09-28",
-          "type": "newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/saying-no"
+          "type": "newsletter"
         },
         {
           "text": "You have to be extremely selective of where you expend your calories. And that caloric expenditure — if you expend your calories in too many places, you end up achieving nothing.",
@@ -76,8 +73,7 @@
           "company": "Cisco",
           "source": "podcasts/jeetu-patel.md",
           "date": "2026-02-26",
-          "type": "podcast",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/jeetu-patel"
+          "type": "podcast"
         },
         {
           "text": "Saying no is one of the most important things I can do as an entrepreneur. And not saying no to a meeting — that can be easy. This is saying no to doing all of the exciting projects that I want to do.",
@@ -125,8 +121,7 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
           "date": "2021-05-04",
-          "type": "newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/14-habits-of-highly-effective-product-managers"
+          "type": "newsletter"
         },
         {
           "text": "If you can't write it clearly, you haven't thought it through clearly. Writing is thinking. The best PMs I've worked with produce documentation that is almost embarrassingly clear.",
@@ -225,8 +220,7 @@
             "company": "Lenny's Podcast",
             "source": "podcasts/eoghan-mccabe.md",
             "date": "2025-08-21",
-            "type": "podcast",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/eoghan-mccabe"
+            "type": "podcast"
           },
           {
             "text": "Some of the most innovative leaders in tech are famous micromanagers. Steve Jobs is a micromanager. Elon Musk is a micromanager. Mark Zuckerberg's a micromanager. The details matter.",
@@ -261,8 +255,7 @@
             "company": "Lenny's Podcast",
             "source": "podcasts/chip-conley.md",
             "date": "2025-08-03",
-            "type": "podcast",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/chip-conley"
+            "type": "podcast"
           },
           {
             "text": "Founder mode done poorly is simply a recipe for undermining, disempowering, and creating chaos.",
@@ -271,8 +264,7 @@
             "company": "Harvard Business School",
             "source": "newsletters/five-principles-for-successfully-managing-managers.md",
             "date": "2025-05-20",
-            "type": "newsletter",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/five-principles-for-successfully-managing-managers"
+            "type": "newsletter"
           }
         ]
       },
@@ -443,8 +435,7 @@
             "company": "Perplexity",
             "source": "newsletters/how-perplexity-builds-product.md",
             "date": "2024-04-30",
-            "type": "newsletter",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/how-perplexity-builds-product"
+            "type": "newsletter"
           },
           {
             "text": "If you want to reach the pinnacle of being a technical PM, you need to learn to code and build something yourself. It's a serious endeavor, but it changes everything about how you work with engineers.",
@@ -453,8 +444,7 @@
             "company": "Lenny's Newsletter",
             "source": "newsletters/getting-more-technical.md",
             "date": "2021-09-21",
-            "type": "newsletter",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/getting-more-technical"
+            "type": "newsletter"
           }
         ]
       },
@@ -479,8 +469,7 @@
             "company": "Lenny's Newsletter",
             "source": "newsletters/the-top-5-things-pms-should-know-about-engineering.md",
             "date": "2021-12-16",
-            "type": "newsletter",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/the-top-5-things-pms-should-know-about-engineering"
+            "type": "newsletter"
           },
           {
             "text": "PMs have to know basics of how the tools work and what would work in the tool. But 'technical PM' and 'knows engineering basics' are very different things — I wouldn't even think of myself as a technical PM.",
@@ -489,8 +478,7 @@
             "company": "Slack",
             "source": "podcasts/merci-grace.md",
             "date": "2022-07-11",
-            "type": "podcast",
-            "sourceUrl": "https://www.lennysnewsletter.com/p/merci-grace"
+            "type": "podcast"
           }
         ]
       },
@@ -564,8 +552,7 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/how-close-is-ai-to-replacing-product-managers.md",
           "date": "2024-07-09",
-          "type": "newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product-managers"
+          "type": "newsletter"
         }
       ],
       "newQuotes": [
@@ -576,8 +563,7 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/make-product-management-fun-again-with-ai-agents.md",
           "date": "2025-04-29",
-          "type": "newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/make-product-management-fun-again-with-ai-agents"
+          "type": "newsletter"
         },
         {
           "text": "I am a technical PM in the making. I have mid-level engineering knowledge. I understand architecture — and I want you to explain what we're currently working on using the same mental models.",
@@ -637,8 +623,7 @@
           "company": "Shopify",
           "source": "podcasts/tobi-lutke.md",
           "date": "2025-02-02",
-          "type": "podcast",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/tobi-lutke"
+          "type": "podcast"
         }
       ],
       "reason": "Brian Chesky's 2023 YC talk on founder mode reframed the entire conversation about leadership. What was once called 'micromanagement' was rebranded as competitive advantage. The debate erupted across the entire 2024-2025 archive.",
@@ -707,8 +692,7 @@
           "company": "Lenny's Newsletter",
           "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
           "date": "2021-05-04",
-          "type": "newsletter",
-          "sourceUrl": "https://www.lennysnewsletter.com/p/14-habits-of-highly-effective-product-managers"
+          "type": "newsletter"
         }
       ],
       "newQuotes": [

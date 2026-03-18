@@ -139,7 +139,7 @@ export default function Home() {
             Every PM quote is taken out of context. We read{" "}
             <span style={{ color: "var(--text)" }}>every post and transcript</span> from
             Lenny&apos;s Newsletter & Podcast to surface what 289 top practitioners
-            actually agree on, where they fight, and what they got wrong.
+            actually agree on, where they differ, and what some of them did not see coming.
           </p>
         </motion.div>
       </section>
