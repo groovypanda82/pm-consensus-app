@@ -217,7 +217,12 @@ export default function Home() {
         borderTop: "1px solid var(--footer-border)", padding: "28px 24px", textAlign: "center",
         color: "var(--text-muted)", fontSize: 12, letterSpacing: "0.02em",
       }}>
-        Built from{" "}
+        Built by{" "}
+        <a href="https://www.linkedin.com/in/suhelparekh/" target="_blank" rel="noopener noreferrer"
+          style={{ color: "var(--text)", textDecoration: "none" }}>
+          Suhel Parekh
+        </a>
+        {" "}from{" "}
         <a href="https://www.lennysnewsletter.com" target="_blank" rel="noopener noreferrer"
           style={{ color: "var(--text-muted)", textDecoration: "none" }}>
           Lenny&apos;s Newsletter & Podcast
