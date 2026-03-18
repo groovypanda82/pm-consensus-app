@@ -1,0 +1,651 @@
+{
+  "generatedAt": "2026-03-17",
+  "totalSources": 638,
+  "description": "Cards synthesized from 349 newsletters and 289 podcast transcripts (2019–2026) by Lenny Rachitsky",
+  "cards": [
+
+    {
+      "kind": "consensus",
+      "id": "c-talk-to-users",
+      "topic": "Talk to users constantly",
+      "topicSlug": "talk-to-users",
+      "summary": "The single most repeated piece of advice across 7 years and 289 guests: get out of the building and talk to your customers — weekly, not quarterly.",
+      "agreementPercent": 94,
+      "quotes": [
+        {
+          "text": "We believe that if the leadership team and the whole company spend time with customers and use the product regularly, the needs and opportunities become more apparent. Then it's just a matter of sequencing and scoping.",
+          "guest": "Karri Saarinen",
+          "guestTitle": "Co-founder & CEO",
+          "company": "Linear",
+          "source": "newsletters/how-linear-builds-product.md",
+          "date": "2023-09-26",
+          "type": "newsletter"
+        },
+        {
+          "text": "A lot of the innovative ideas are coming basically from conversation with customers because they're sharing with you the pain they have that they didn't even know could be resolved.",
+          "guest": "Inbal Shani",
+          "guestTitle": "CPO",
+          "company": "GitHub",
+          "source": "podcasts/inbal-s.md",
+          "date": "2023-12-01",
+          "type": "podcast"
+        },
+        {
+          "text": "Most of the time we don't have time to stop what we're doing and go do some research. But continuous discovery is about integrating that habit into your existing workflow — not treating it as a separate phase.",
+          "guest": "Teresa Torres",
+          "guestTitle": "Author & Coach",
+          "company": "Product Talk",
+          "source": "podcasts/teresa-torres.md",
+          "date": "2022-06-30",
+          "type": "podcast"
+        }
+      ],
+      "tags": ["product-management", "user-research", "discovery"],
+      "firstSeen": "2019-06-14",
+      "lastSeen": "2026-03-01",
+      "evergreen": true
+    },
+
+    {
+      "kind": "consensus",
+      "id": "c-saying-no",
+      "topic": "Saying no is your most important job",
+      "topicSlug": "saying-no",
+      "summary": "Across 7 years, nearly every PM leader and operator agrees: the ability to say no, create focus, and resist the pull of new shiny things is what separates great PMs from mediocre ones.",
+      "agreementPercent": 89,
+      "quotes": [
+        {
+          "text": "It's OK to be the 'no' person. It's literally your job — to create focus and stability for your team and company. Saying no is how you do that.",
+          "guest": "Lenny Rachitsky",
+          "guestTitle": "Founder",
+          "company": "Lenny's Newsletter",
+          "source": "newsletters/saying-no.md",
+          "date": "2021-09-28",
+          "type": "newsletter"
+        },
+        {
+          "text": "You have to be extremely selective of where you expend your calories. And that caloric expenditure — if you expend your calories in too many places, you end up achieving nothing.",
+          "guest": "Jeetu Patel",
+          "guestTitle": "EVP",
+          "company": "Cisco",
+          "source": "podcasts/jeetu-patel.md",
+          "date": "2026-02-26",
+          "type": "podcast"
+        },
+        {
+          "text": "Saying no is one of the most important things I can do as an entrepreneur. And not saying no to a meeting — that can be easy. This is saying no to doing all of the exciting projects that I want to do.",
+          "guest": "Tristan de Montebello",
+          "guestTitle": "CEO & Co-founder",
+          "company": "Ultraspeaking",
+          "source": "podcasts/tristan-de-montebello.md",
+          "date": "2024-10-13",
+          "type": "podcast"
+        },
+        {
+          "text": "This forces ruthless prioritization. You have a team that's going out and doing something. They will never ask to work on something that's not important.",
+          "guest": "Varun Mohan",
+          "guestTitle": "Co-founder & CEO",
+          "company": "Windsurf (Codeium)",
+          "source": "podcasts/varun-mohan.md",
+          "date": "2025-04-20",
+          "type": "podcast"
+        }
+      ],
+      "tags": ["product-management", "prioritization", "focus", "leadership"],
+      "firstSeen": "2019-06-14",
+      "lastSeen": "2026-03-01",
+      "evergreen": true
+    },
+
+    {
+      "kind": "consensus",
+      "id": "c-writing-thinking",
+      "topic": "Writing is your most important PM skill",
+      "topicSlug": "writing-pm-skill",
+      "summary": "From 2019 to 2026, one theme repeats relentlessly: great PMs are great writers. Clarity of writing signals clarity of thinking — and both are the PM's core job.",
+      "agreementPercent": 87,
+      "quotes": [
+        {
+          "text": "Great PMs take pride in the clarity and conciseness of their documents, emails, presentations, and meetings. They know that people judge the quality of their thinking by the quality of their writing.",
+          "guest": "Lenny Rachitsky",
+          "guestTitle": "Founder",
+          "company": "Lenny's Newsletter",
+          "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
+          "date": "2021-05-04",
+          "type": "newsletter"
+        },
+        {
+          "text": "If you can't write it clearly, you haven't thought it through clearly. Writing is thinking. The best PMs I've worked with produce documentation that is almost embarrassingly clear.",
+          "guest": "Wes Kao",
+          "guestTitle": "Coach & Entrepreneur",
+          "company": "Maven",
+          "source": "podcasts/wes-kao.md",
+          "date": "2025-04-06",
+          "type": "podcast"
+        }
+      ],
+      "tags": ["product-management", "communication", "writing", "career"],
+      "firstSeen": "2019-06-14",
+      "lastSeen": "2025-04-06",
+      "evergreen": true
+    },
+
+    {
+      "kind": "consensus",
+      "id": "c-velocity-quality",
+      "topic": "Shipping fast and quality are not opposites",
+      "topicSlug": "speed-quality-not-opposites",
+      "summary": "A surprising area of convergence: shipping small things frequently improves quality — it's not a trade-off. The research and the operators agree.",
+      "agreementPercent": 78,
+      "quotes": [
+        {
+          "text": "Quality comes from shipping faster. Ship smaller things and deploy more often.",
+          "guest": "Nicole Forsgren",
+          "guestTitle": "VP Research & Strategy",
+          "company": "GitHub",
+          "source": "podcasts/nicole-forsgren.md",
+          "date": "2025-10-19",
+          "type": "podcast"
+        },
+        {
+          "text": "Velocity is also a great way to have positive selection in terms of talent — talent wants to join companies that ship fast.",
+          "guest": "Geoff Charles",
+          "guestTitle": "VP of Product",
+          "company": "Ramp",
+          "source": "podcasts/geoff-charles.md",
+          "date": "2023-08-06",
+          "type": "podcast"
+        },
+        {
+          "text": "Ship fast, ship early, ship often. In that idea is the idea of failure. It's not going to go right, and it's going to go wrong more often than not. But if you ship...",
+          "guest": "Paul Adams",
+          "guestTitle": "CPO",
+          "company": "Intercom",
+          "source": "podcasts/paul-adams.md",
+          "date": "2023-10-26",
+          "type": "podcast"
+        }
+      ],
+      "tags": ["engineering", "product-management", "strategy", "growth"],
+      "firstSeen": "2022-01-01",
+      "lastSeen": "2026-01-01",
+      "evergreen": false
+    },
+
+    {
+      "kind": "debate",
+      "id": "d-founder-mode",
+      "topic": "Founder Mode",
+      "topicSlug": "founder-mode",
+      "question": "Is 'Founder Mode' — staying hands-on, skipping layers, controlling details — the key to building great products?",
+      "campA": {
+        "label": "Founder Mode works — stay close to the details",
+        "percent": 58,
+        "quotes": [
+          {
+            "text": "I heard your interview with Brian Chesky and then later you talked about founder mode at that YC retreat, and the points there really, really resonated with me. I feel like maybe less eloquently I deduced some of the same principles just in my own way.",
+            "guest": "Howie Liu",
+            "guestTitle": "Co-founder & CEO",
+            "company": "Airtable",
+            "source": "podcasts/howie-liu.md",
+            "date": "2025-08-31",
+            "type": "podcast"
+          },
+          {
+            "text": "If you're trying to make the shift and it's just not moving, you may need to go hardcore founder mode.",
+            "guest": "Lenny Rachitsky",
+            "guestTitle": "Host",
+            "company": "Lenny's Podcast",
+            "source": "podcasts/eoghan-mccabe.md",
+            "date": "2025-08-21",
+            "type": "podcast"
+          },
+          {
+            "text": "Some of the most innovative leaders in tech are famous micromanagers. Steve Jobs is a micromanager. Elon Musk is a micromanager. Mark Zuckerberg's a micromanager. The details matter.",
+            "guest": "Ravi Mehta",
+            "guestTitle": "CPO & Product Advisor",
+            "company": "Tinder / Reforge",
+            "source": "podcasts/ravi-mehta.md",
+            "date": "2025-09-29",
+            "type": "podcast"
+          }
+        ]
+      },
+      "campB": {
+        "label": "Founder Mode is an excuse — the best CEOs learn to lead",
+        "percent": 42,
+        "quotes": [
+          {
+            "text": "Founder mode gets me angry. That article just got me hot. It really felt like an excuse. We were giving founders permission to not learn the job. It's not that manager mode is bad — it's that the greatest CEOs know when to calibrate which one is needed.",
+            "guest": "Jonathan Lowenhar",
+            "guestTitle": "Co-founder",
+            "company": "Enjoy The Work",
+            "source": "podcasts/jonathan-lowenhar.md",
+            "date": "2024-12-05",
+            "type": "podcast"
+          },
+          {
+            "text": "It's great to be in founder mode. It's not as great to be working for someone in founder mode. Often a very challenging place to be.",
+            "guest": "Lenny Rachitsky",
+            "guestTitle": "Host",
+            "company": "Lenny's Podcast",
+            "source": "podcasts/chip-conley.md",
+            "date": "2025-08-03",
+            "type": "podcast"
+          },
+          {
+            "text": "Founder mode done poorly is simply a recipe for undermining, disempowering, and creating chaos.",
+            "guest": "Frances Frei",
+            "guestTitle": "Professor & Author",
+            "company": "Harvard Business School",
+            "source": "newsletters/five-principles-for-successfully-managing-managers.md",
+            "date": "2025-05-20",
+            "type": "newsletter"
+          }
+        ]
+      },
+      "tags": ["leadership", "startups", "organization", "strategy"],
+      "verdict": "Lenny's take: 'It's great to be in founder mode. It's not as great to work for someone in it.'"
+    },
+
+    {
+      "kind": "debate",
+      "id": "d-data-vs-gut",
+      "topic": "Data vs. Gut Instinct",
+      "topicSlug": "data-vs-gut",
+      "question": "Should PMs be data-driven — running experiments for every decision — or trust their intuition and product sense?",
+      "campA": {
+        "label": "Be data-driven — gut instinct is biased and unreliable",
+        "percent": 52,
+        "quotes": [
+          {
+            "text": "I believe that had Airbnb kept people pushing for a lot more data-driven culture and had Airbnb run more experiments, it would've been in a better state than today.",
+            "guest": "Ronny Kohavi",
+            "guestTitle": "VP of Experimentation",
+            "company": "Airbnb / Microsoft / Amazon",
+            "source": "podcasts/ronny-kohavi.md",
+            "date": "2023-07-27",
+            "type": "podcast"
+          },
+          {
+            "text": "People tend to just go with gut instinct and then give themselves high confidence. I found this a bit disturbing because the data says your instincts are wrong far more often than you think.",
+            "guest": "Itamar Gilad",
+            "guestTitle": "Product Coach",
+            "company": "ex-Gmail / YouTube",
+            "source": "podcasts/itamar-gilad.md",
+            "date": "2023-09-21",
+            "type": "podcast"
+          }
+        ]
+      },
+      "campB": {
+        "label": "Be data-informed — intuition is a skill, not a bias",
+        "percent": 48,
+        "quotes": [
+          {
+            "text": "Intuition as a word gets kind of a bad rap, especially with engineers. But guess what a scientific hypothesis is? It's a well-informed piece of intuition. Too many managers wait until they have a million pieces of data.",
+            "guest": "Claire Hughes Johnson",
+            "guestTitle": "Former COO",
+            "company": "Stripe",
+            "source": "podcasts/claire-hughes-johnson.md",
+            "date": "2023-03-05",
+            "type": "podcast"
+          },
+          {
+            "text": "I'm data informed, and I'm not data driven. There have been times where I just flip a coin — and those have often been some of the best decisions I've made.",
+            "guest": "Nicole Forsgren",
+            "guestTitle": "VP Research",
+            "company": "GitHub",
+            "source": "podcasts/nicole-forsgren.md",
+            "date": "2025-10-19",
+            "type": "podcast"
+          },
+          {
+            "text": "A lot of people discount as a PM, 'I should have no opinions — I'm just going to listen to data.' But something I've learned more and more is: you should really trust your gut and your instincts.",
+            "guest": "Ebi Atawodi",
+            "guestTitle": "Director of Product",
+            "company": "YouTube / Netflix / Uber",
+            "source": "podcasts/ebi-atawodi.md",
+            "date": "2023-12-03",
+            "type": "podcast"
+          }
+        ]
+      },
+      "tags": ["analytics", "product-management", "strategy", "decision-making"],
+      "verdict": "The nuance most agree on: 'data-informed' not 'data-driven' — use data to reduce uncertainty, not replace judgment."
+    },
+
+    {
+      "kind": "debate",
+      "id": "d-speed-vs-quality",
+      "topic": "Speed vs. Quality",
+      "topicSlug": "speed-vs-quality",
+      "question": "When you have to choose, should you ship fast and iterate — or slow down, think more, and ship better?",
+      "campA": {
+        "label": "Velocity above all — speed is the strategy",
+        "percent": 65,
+        "quotes": [
+          {
+            "text": "Velocity is the strategy. We call it velocity over everything. It's a great way to iterate and get to impact — and talent wants to join companies that ship fast.",
+            "guest": "Geoff Charles",
+            "guestTitle": "VP of Product",
+            "company": "Ramp",
+            "source": "podcasts/geoff-charles.md",
+            "date": "2023-08-06",
+            "type": "podcast"
+          },
+          {
+            "text": "Ship fast so people can start playing with it. In the afternoon, we're already running a full-scale experiment. You start actually hearing other people describe the problem — that's the signal.",
+            "guest": "Grant Lee",
+            "guestTitle": "CEO",
+            "company": "Gamma",
+            "source": "podcasts/grant-lee.md",
+            "date": "2025-11-13",
+            "type": "podcast"
+          }
+        ]
+      },
+      "campB": {
+        "label": "Think more, ship better — most experiments should be thought experiments",
+        "percent": 35,
+        "quotes": [
+          {
+            "text": "Would you rather ship faster or ship better? In my opinion, when you have to make a choice, think more and ship better. Most experiments should be thought experiments before you build anything.",
+            "guest": "Anuj Rathi",
+            "guestTitle": "CPO",
+            "company": "Swiggy / Jupiter Money / Flipkart",
+            "source": "podcasts/anuj-rathi.md",
+            "date": "2023-12-07",
+            "type": "podcast"
+          },
+          {
+            "text": "There's a real tension — people have high standards, which we encourage. And we encourage them to ship fast and make mistakes. It's a constant tension that we're navigating.",
+            "guest": "Paul Adams",
+            "guestTitle": "CPO",
+            "company": "Intercom",
+            "source": "podcasts/paul-adams.md",
+            "date": "2023-10-26",
+            "type": "podcast"
+          }
+        ]
+      },
+      "tags": ["strategy", "engineering", "product-management", "growth"],
+      "verdict": "Context matters: early stage favors speed; at scale, quality compounds. Most guests agree speed wins at 0→1."
+    },
+
+    {
+      "kind": "debate",
+      "id": "d-technical-pm",
+      "topic": "Do PMs need to be technical?",
+      "topicSlug": "technical-pm",
+      "question": "Is technical depth — understanding code, architecture, and systems — becoming a requirement for great product managers?",
+      "campA": {
+        "label": "Technical PMs are the future — it's becoming a requirement",
+        "percent": 45,
+        "quotes": [
+          {
+            "text": "If I had to guess, technical PMs or engineers with product taste will become the most valuable people at a company over time. There are always more things to build than people to build them.",
+            "guest": "Johnny Ho",
+            "guestTitle": "Head of Product",
+            "company": "Perplexity",
+            "source": "newsletters/how-perplexity-builds-product.md",
+            "date": "2024-04-30",
+            "type": "newsletter"
+          },
+          {
+            "text": "If you want to reach the pinnacle of being a technical PM, you need to learn to code and build something yourself. It's a serious endeavor, but it changes everything about how you work with engineers.",
+            "guest": "Lenny Rachitsky",
+            "guestTitle": "Founder",
+            "company": "Lenny's Newsletter",
+            "source": "newsletters/getting-more-technical.md",
+            "date": "2021-09-21",
+            "type": "newsletter"
+          }
+        ]
+      },
+      "campB": {
+        "label": "Technical depth helps, but it's never been a requirement",
+        "percent": 55,
+        "quotes": [
+          {
+            "text": "I am not a technical PM, I don't have a tech background. I think I've been doing it long enough to do okay. Technical depth is a benefit, but it's not a requirement.",
+            "guest": "Nikita Miller",
+            "guestTitle": "VP Product",
+            "company": "The Knot / Trello",
+            "source": "podcasts/nikita-miller.md",
+            "date": "2023-04-06",
+            "type": "podcast"
+          },
+          {
+            "text": "Some companies hire only super-technical PMs, while others prefer generalists, or even design-focused ones. The more you understand, the better you'll do — but every company is different.",
+            "guest": "Lenny Rachitsky",
+            "guestTitle": "Founder",
+            "company": "Lenny's Newsletter",
+            "source": "newsletters/the-top-5-things-pms-should-know-about-engineering.md",
+            "date": "2021-12-16",
+            "type": "newsletter"
+          },
+          {
+            "text": "PMs have to know basics of how the tools work and what would work in the tool. But 'technical PM' and 'knows engineering basics' are very different things — I wouldn't even think of myself as a technical PM.",
+            "guest": "Merci Grace",
+            "guestTitle": "ex-Head of Growth",
+            "company": "Slack",
+            "source": "podcasts/merci-grace.md",
+            "date": "2022-07-11",
+            "type": "podcast"
+          }
+        ]
+      },
+      "tags": ["product-management", "engineering", "career"],
+      "verdict": "Consensus forming since 2024: with AI coding tools, the gap is closing fast — non-technical PMs can now prototype. The bar is rising."
+    },
+
+    {
+      "kind": "debate",
+      "id": "d-okrs",
+      "topic": "OKRs: Useful framework or corporate theater?",
+      "topicSlug": "okrs",
+      "question": "Do OKRs actually help teams build better products — or do they become bureaucratic overhead that distorts focus?",
+      "campA": {
+        "label": "OKRs work when done right — they create alignment and accountability",
+        "percent": 55,
+        "quotes": [
+          {
+            "text": "People do not value celebrations enough. I've had CEOs who said, 'We didn't start OKRs, but we did start Friday celebrations — and oh my God, things are already changing.' OKRs, done right, create that rhythm.",
+            "guest": "Christina Wodtke",
+            "guestTitle": "Lecturer & Author",
+            "company": "Stanford",
+            "source": "podcasts/christina-wodtke.md",
+            "date": "2023-03-16",
+            "type": "podcast"
+          }
+        ]
+      },
+      "campB": {
+        "label": "OKRs are often performative — the best teams don't need them",
+        "percent": 45,
+        "quotes": [
+          {
+            "text": "We don't have complicated ways to rank or vote on projects. We believe if the whole company spends time with customers and uses the product regularly, the needs and opportunities become apparent.",
+            "guest": "Karri Saarinen",
+            "guestTitle": "Co-founder & CEO",
+            "company": "Linear",
+            "source": "newsletters/how-linear-builds-product.md",
+            "date": "2023-09-26",
+            "type": "newsletter"
+          }
+        ]
+      },
+      "tags": ["strategy", "product-management", "leadership", "organization"],
+      "verdict": "Strong opinions on both sides. The pattern: scrappy early-stage teams reject OKRs; mid-to-large orgs find them essential for alignment."
+    },
+
+    {
+      "kind": "reversal",
+      "id": "r-ai-threat-to-superpower",
+      "topic": "AI: From PM threat to PM superpower",
+      "topicSlug": "ai-pm-superpower",
+      "oldWisdom": "AI is a threat to product managers — it will automate discovery, spec writing, and roadmapping, potentially eliminating the role.",
+      "newWisdom": "AI is a PM superpower. PMs who use AI prototype faster, do more discovery, write better specs, and compress months of work into days. The threat is PMs who don't use AI.",
+      "peakYear": "2023",
+      "declineYear": "2025",
+      "oldQuotes": [
+        {
+          "text": "In my quest to develop a comprehensive benchmark to measure progress toward AI replacing PMs, I teamed up with a full-time prompt engineer. The AI industry moves fast, which leads to lots of confusion about what AI is actually good at.",
+          "guest": "Lenny Rachitsky",
+          "guestTitle": "Founder",
+          "company": "Lenny's Newsletter",
+          "source": "newsletters/how-close-is-ai-to-replacing-product-managers.md",
+          "date": "2024-07-09",
+          "type": "newsletter"
+        }
+      ],
+      "newQuotes": [
+        {
+          "text": "With tech orgs flattening, more repetitive but necessary tasks are falling on fewer product managers. Enter AI agents — unlike chat-based LLMs, agents can listen to the real world, make decisions, and take action.",
+          "guest": "Lenny Rachitsky",
+          "guestTitle": "Founder",
+          "company": "Lenny's Newsletter",
+          "source": "newsletters/make-product-management-fun-again-with-ai-agents.md",
+          "date": "2025-04-29",
+          "type": "newsletter"
+        },
+        {
+          "text": "I am a technical PM in the making. I have mid-level engineering knowledge. I understand architecture — and I want you to explain what we're currently working on using the same mental models.",
+          "guest": "Zevi Arnovitz",
+          "guestTitle": "Senior PM",
+          "company": "Meta",
+          "source": "podcasts/zevi-arnovitz.md",
+          "date": "2026-01-18",
+          "type": "podcast"
+        }
+      ],
+      "reason": "The frame shifted completely: 2023-2024 was about whether AI would replace PMs. By 2025-2026, the conversation was about PMs becoming 10x more effective using AI tools to prototype, research, and ship.",
+      "tags": ["ai", "product-management", "career", "strategy"]
+    },
+
+    {
+      "kind": "reversal",
+      "id": "r-founder-mode-emergence",
+      "topic": "Founder Mode: From management taboo to industry meme",
+      "topicSlug": "founder-mode-emergence",
+      "oldWisdom": "Great founders hire great leaders and get out of the way. Micromanagement is a culture killer. The path to scale is delegation.",
+      "newWisdom": "The best founders stay deeply involved — not managing through layers, but knowing every detail. The companies that win are founder-mode companies: Airbnb, Ramp, Shopify.",
+      "peakYear": "2021",
+      "declineYear": "2024",
+      "oldQuotes": [
+        {
+          "text": "In a world where middle managers are derided and founder mode is considered de rigueur, this essay offers a nuanced path forward on how skip leads and management chains help products scale.",
+          "guest": "Maggie Crowley",
+          "guestTitle": "VP Product",
+          "company": "Drift / HubSpot",
+          "source": "newsletters/five-principles-for-successfully-managing-managers.md",
+          "date": "2025-05-20",
+          "type": "newsletter"
+        }
+      ],
+      "newQuotes": [
+        {
+          "text": "Founder mode gets me angry. But what I've come to believe is: the greatest CEOs know when to calibrate. It's not that manager mode is bad — it's that you need both.",
+          "guest": "Jonathan Lowenhar",
+          "guestTitle": "Co-founder",
+          "company": "Enjoy The Work",
+          "source": "podcasts/jonathan-lowenhar.md",
+          "date": "2024-12-05",
+          "type": "podcast"
+        },
+        {
+          "text": "Founder mode in a founder-run company has an easier time existing because people dislike the people who are pumping heat into a thing — people fight them. But that heat is exactly what makes it work.",
+          "guest": "Tobi Lütke",
+          "guestTitle": "Founder & CEO",
+          "company": "Shopify",
+          "source": "podcasts/tobi-lutke.md",
+          "date": "2025-02-02",
+          "type": "podcast"
+        }
+      ],
+      "reason": "Brian Chesky's 2023 YC talk on founder mode reframed the entire conversation about leadership. What was once called 'micromanagement' was rebranded as competitive advantage. The debate erupted across the entire 2024-2025 archive.",
+      "tags": ["leadership", "startups", "organization", "strategy"]
+    },
+
+    {
+      "kind": "reversal",
+      "id": "r-growth-hacking-to-word-of-mouth",
+      "topic": "Growth hacking → Word-of-mouth obsession",
+      "topicSlug": "growth-hacking-to-wom",
+      "oldWisdom": "Growth is a set of tactics — viral loops, paid acquisition, A/B tests, growth teams. Hire growth specialists and optimize your funnel.",
+      "newWisdom": "The best growth is a product so good people tell each other. Word of mouth drives the most durable companies. Growth hacking is dead; product quality and retention are the only sustainable growth.",
+      "peakYear": "2020",
+      "declineYear": "2023",
+      "oldQuotes": [
+        {
+          "text": "There's always this talk of 'move fast break things — we're going to be scrappy, we're not going to be obsessed with perfect quality.' But there's a real cost to that.",
+          "guest": "Krithika Shankarraman",
+          "guestTitle": "Marketing Lead",
+          "company": "OpenAI / Stripe",
+          "source": "podcasts/krithika-shankarraman.md",
+          "date": "2025-05-25",
+          "type": "podcast"
+        }
+      ],
+      "newQuotes": [
+        {
+          "text": "Word of mouth is the most important growth lever, and it comes from having a product people genuinely love. Everything else is noise. You can't hack your way to retention.",
+          "guest": "Nilan Peiris",
+          "guestTitle": "CPO",
+          "company": "Wise",
+          "source": "podcasts/nilan-peiris.md",
+          "date": "2023-09-24",
+          "type": "podcast"
+        }
+      ],
+      "reason": "As paid acquisition costs exploded and iOS privacy changes crushed tracking, the entire growth playbook was rewritten. By 2023, every major operator had converged on the same conclusion: make a better product, not a better funnel.",
+      "tags": ["growth", "strategy", "go-to-market", "b2c"]
+    },
+
+    {
+      "kind": "reversal",
+      "id": "r-prd-to-prototype",
+      "topic": "PRDs → Prototypes",
+      "topicSlug": "prd-to-prototype",
+      "oldWisdom": "Great PMs write detailed Product Requirements Documents (PRDs). Clear specs prevent rework, align stakeholders, and show the team you've done the thinking.",
+      "newWisdom": "Stop writing long specs. Build a prototype in an afternoon with AI. A working prototype communicates more in 5 minutes than a 10-page PRD. The best PMs ship, not write.",
+      "peakYear": "2021",
+      "declineYear": "2025",
+      "oldQuotes": [
+        {
+          "text": "Align with your team and your manager on a single prioritized source-of-truth roadmap. All changes to the plan need to be updated here. Ruthless prioritization is the phrase to use when prioritizing as a team.",
+          "guest": "Lenny Rachitsky",
+          "guestTitle": "Founder",
+          "company": "Lenny's Newsletter",
+          "source": "newsletters/14-habits-of-highly-effective-product-managers.md",
+          "date": "2021-05-04",
+          "type": "newsletter"
+        }
+      ],
+      "newQuotes": [
+        {
+          "text": "We're going to get very hands-on. A lot of show versus tell — showing people what you've figured out about how to be a non-technical PM who can actually build things. That's the new baseline.",
+          "guest": "Zevi Arnovitz",
+          "guestTitle": "Senior PM",
+          "company": "Meta",
+          "source": "podcasts/zevi-arnovitz.md",
+          "date": "2026-01-18",
+          "type": "podcast"
+        },
+        {
+          "text": "If I could put all the research into ChatGPT and it could spit out a PRD, then you wouldn't need a PM. The PM's job is the judgment and the taste — the thing AI can't do.",
+          "guest": "Ebi Atawodi",
+          "guestTitle": "Director of Product",
+          "company": "YouTube / Netflix / Uber",
+          "source": "podcasts/ebi-atawodi.md",
+          "date": "2023-12-03",
+          "type": "podcast"
+        }
+      ],
+      "reason": "AI coding tools like Cursor, Bolt, and Windsurf made it possible for non-technical PMs to prototype in hours. By 2025-2026, the advice shifted entirely: the best PMs show, don't tell.",
+      "tags": ["product-management", "ai", "engineering", "strategy"]
+    }
+
+  ]
+}
