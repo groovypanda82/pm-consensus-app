@@ -1,4 +1,8 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import type { Quote } from "@/lib/types";
+import { getSourceLinks } from "@/lib/sourceLinks";
 
 interface Props {
   quote: Quote;
@@ -6,6 +10,14 @@ interface Props {
 }
 
 export default function QuoteBlock({ quote, accentColor = "#4ade80" }: Props) {
+  const [url, setUrl] = useState<string>("#");
+
+  useEffect(() => {
+    getSourceLinks().then((links) => {
+      setUrl(links[quote.source] ?? "#");
+    });
+  }, [quote.source]);
+
   return (
     <div style={{
       background: "var(--quote-bg)",
@@ -45,7 +57,7 @@ export default function QuoteBlock({ quote, accentColor = "#4ade80" }: Props) {
         </div>
         <div style={{ marginLeft: "auto", flexShrink: 0 }}>
           <a
-            href={`https://www.lennysnewsletter.com/p/${quote.source.replace(/^(podcasts|newsletters)\//, "").replace(/\.md$/, "")}`}
+            href={url}
             target="_blank"
             rel="noopener noreferrer"
             style={{
