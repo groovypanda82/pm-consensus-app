@@ -60,7 +60,7 @@ export default function DebateCardView({ card, vote, onVote }: Props) {
       </div>
 
       {/* Two camps */}
-      <div style={{ padding: "16px 24px 0", display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+      <div className="grid grid-cols-1 min-[540px]:grid-cols-2" style={{ padding: "16px 24px 0", gap: 12 }}>
         {/* Camp A */}
         <div style={{
           background: vote === "A" ? COLOR_A + "10" : "var(--surface2)",
@@ -178,7 +178,7 @@ export default function DebateCardView({ card, vote, onVote }: Props) {
             <AnimatePresence>
               {expanded && (
                 <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: "auto" }} exit={{ opacity: 0, height: 0 }} style={{ overflow: "hidden" }}>
-                  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12, marginTop: 12 }}>
+                  <div className="grid grid-cols-1 min-[540px]:grid-cols-2" style={{ gap: 12, marginTop: 12 }}>
                     <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
                       {card.campA.quotes.slice(1).map((q, i) => <QuoteBlock key={i} quote={q} accentColor={COLOR_A} />)}
                     </div>
